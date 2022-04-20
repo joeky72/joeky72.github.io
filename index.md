@@ -6,7 +6,7 @@
   </head>
   <body>
     <button onclick="window.location.href='https://joeky72.github.io/contact';">
-      Click Here
+      Contact me
     </button>
   </body>
 </html>
