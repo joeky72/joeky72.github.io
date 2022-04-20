@@ -1,3 +1,1 @@
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
+Welcome to my website! I will be using this to document my professional progress and my projects.
